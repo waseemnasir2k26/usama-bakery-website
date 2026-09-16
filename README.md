@@ -2,6 +2,10 @@
 
 **DEMO WEBSITE FOR USAMA CHAUDHRY**
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 A modern, responsive bakery website built with React and Tailwind CSS. Features a beautiful amber glow design inspired by traditional Pakistani bakeries.
 
 ## Features
